@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @MarcosPitelli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sobre mim
+## Me conheça um pouco.
+
+- 👋 Oi, eu sou @MarcosPitelli
+- 👀 Tenho interesse em progamação.
+- 🌱 Usando GitHub para aulas.
+- 💞️ Estudante do CEMAP.
+- 📫 Meu email para contato (marcos.pitelli@escola.pr.gov.br)
 
 <!---
 MarcosPitelli/MarcosPitelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
